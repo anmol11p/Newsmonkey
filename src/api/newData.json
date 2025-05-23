@@ -1,0 +1,442 @@
+[
+  {
+    "title": "NBA Finals: Lakers vs Celtics Showdown Begins",
+    "description": "Historic rivals face off in Game 1 of the NBA Finals at TD Garden. Fans predict a seven-game thriller.",
+    "urlToImage": "https://images.unsplash.com/photo-1546519638-68e109498ffc?auto=format&fit=crop&w=600&q=80",
+    "url": "https://www.espn.com/nba/story/_/id/40332275/lakers-celtics-nba-finals-game1",
+    "category": "sports",
+    "country": "us"
+  },
+  {
+    "title": "Oscars 2024: Nolan's Epic Wins Best Picture",
+    "description": "Christopher Nolan's 'Oppenheimer' sweeps 7 awards, including Best Director and Cinematography.",
+    "urlToImage": "https://images.unsplash.com/photo-1615986201152-7686a4867f30?auto=format&fit=crop&w=600&q=80",
+    "url": "https://variety.com/2024/film/awards/oscars-2024-winners-list-1235934567/",
+    "category": "entertainment",
+    "country": "us"
+  },
+  {
+    "title": "India Tests Hypersonic Missile in Odisha",
+    "description": "DRDO successfully launches BrahMos-II, capable of Mach 7 speeds, bolstering defense capabilities.",
+    "urlToImage": "https://images.unsplash.com/photo-1589652717521-10c0d09aafdb?auto=format&fit=crop&w=600&q=80",
+    "url": "https://www.thehindu.com/news/national/india-hypersonic-missile-test/article67890123/",
+    "category": "defense",
+    "country": "in"
+  },
+  {
+    "title": "IPL 2024: Kohli's Century Seals Playoff Spot",
+    "description": "RCB defeats Mumbai Indians as Kohli scores 112* off 63 balls. Playoffs begin Friday in Ahmedabad.",
+    "urlToImage": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?auto=format&fit=crop&w=600&q=80",
+    "url": "https://www.espncricinfo.com/story/ipl-2024-rcb-vs-mi-kohli-century-13456789",
+    "category": "sports",
+    "country": "in"
+  },
+  {
+    "title": "Bollywood's 'Kalki 2898 AD' Breaks Global Records",
+    "description": "Prabhas-starrer sci-fi epic earns ₹800 crore worldwide in opening week, surpassing 'RRR'.",
+    "urlToImage": "https://images.unsplash.com/photo-1611419010196-a360856fc42f?auto=format&fit=crop&w=600&q=80",
+    "url": "https://www.hindustantimes.com/entertainment/bollywood/kalki-2898-ad-box-office-record-101715678901234/",
+    "category": "entertainment",
+    "country": "in"
+  },
+  {
+    "title": "AU Launches Indigenous Satellite Network",
+    "description": "Australia's $1.2bn 'SkyNet' project aims to improve rural internet connectivity by 2026.",
+    "urlToImage": "https://images.unsplash.com/photo-1464802686167-b939a6910659?auto=format&fit=crop&w=600&q=80",
+    "url": "https://www.abc.net.au/news/science/2024-05-21/australia-satellite-network-skynet-launch/103867890",
+    "category": "technology",
+    "country": "au"
+  },
+  {
+    "title": "Ashes 2025: MCG to Host Day-Night Test",
+    "description": "Cricket Australia announces pink-ball Ashes Test in Melbourne, sparking fan excitement.",
+    "urlToImage": "https://images.unsplash.com/photo-1608245449242-7e6893c53abb?auto=format&fit=crop&w=600&q=80",
+    "url": "https://www.cricket.com.au/news/ashes-2025-mcg-day-night-test/2024-05-21",
+    "category": "sports",
+    "country": "au"
+  },
+  {
+    "title": "Germany Unveils AI-Powered Healthcare Chatbot",
+    "description": "Berlin launches 'MediBot' to reduce hospital wait times. 87% accuracy in preliminary trials.",
+    "urlToImage": "https://images.unsplash.com/photo-1579762715118-a6f1d4b934f1?auto=format&fit=crop&w=600&q=80",
+    "url": "https://www.dw.com/en/germany-ai-healthcare-medi-bot/a-69012345",
+    "category": "health",
+    "country": "de"
+  },
+  {
+    "title": "Bundesliga: Leverkusen Clinches Title",
+    "description": "Undefeated Bayer Leverkusen secures first Bundesliga trophy in 120-year history.",
+    "urlToImage": "https://images.unsplash.com/photo-1552667466-07770ae110d0?auto=format&fit=crop&w=600&q=80",
+    "url": "https://www.bundesliga.com/en/news/leverkusen-champions-2024-987654",
+    "category": "sports",
+    "country": "de"
+  },
+  {
+    "title": "UK's NHS Rolls Out Cancer Vaccine Trials",
+    "description": "Personalized mRNA vaccines show 60% success rate in early-stage trials across 10 hospitals.",
+    "urlToImage": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=600&q=80",
+    "url": "https://www.bbc.co.uk/news/health-69056789",
+    "category": "health",
+    "country": "uk"
+  },
+  {
+    "title": "Premier League: Man City Wins Fourth Straight Title",
+    "description": "Guardiola's squad defeats Arsenal 3-1 to secure unprecedented quadruple.",
+    "urlToImage": "https://images.unsplash.com/photo-1543351611-58ad26303b77?auto=format&fit=crop&w=600&q=80",
+    "url": "https://www.skysports.com/football/news/11679/13123456/man-city-premier-league-champions-2024",
+    "category": "sports",
+    "country": "uk"
+  },
+  {
+    "title": "Hollywood Strike Ends With Streaming Profit Deal",
+    "description": "SAG-AFTRA secures 4% revenue share from platforms like Netflix. Production resumes June 1.",
+    "urlToImage": "https://images.unsplash.com/photo-1586899028174-ae879dc19c46?auto=format&fit=crop&w=600&q=80",
+    "url": "https://www.hollywoodreporter.com/business/strike-ends-streaming-deal-1235792465/",
+    "category": "entertainment",
+    "country": "us"
+  },
+  {
+    "title": "India's Chandrayaan-4 Targets Lunar South Pole",
+    "description": "ISRO announces 2026 mission to deploy rover and study water ice deposits.",
+    "urlToImage": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?auto=format&fit=crop&w=600&q=80",
+    "url": "https://www.isro.gov.in/chandrayaan4-mission-update",
+    "category": "technology",
+    "country": "in"
+  },
+  {
+    "title": "AU Wildfire Defense System Goes Live",
+    "description": "AI-powered sensors now cover 80% of bushfire-prone areas. Early tests show 90% accuracy.",
+    "urlToImage": "https://images.unsplash.com/photo-1514327605112-b8874f05acc6?auto=format&fit=crop&w=600&q=80",
+    "url": "https://www.theguardian.com/australia-news/2024/may/21/australia-wildfire-ai-system",
+    "category": "defense",
+    "country": "au"
+  },
+  {
+    "title": "Berlin Film Festival Winners Announced",
+    "description": "German drama 'Winter Light' wins Golden Bear. Full list of awardees inside.",
+    "urlToImage": "https://images.unsplash.com/photo-1512149673953-1e251807ec7c?auto=format&fit=crop&w=600&q=80",
+    "url": "https://www.berlinale.de/en/news/2024-award-winners.html",
+    "category": "entertainment",
+    "country": "de"
+  },
+  {
+    "title": "US Launches Mars Habitat Simulation in Arizona",
+    "description": "NASA's year-long mission prepares astronauts for future Mars colonization. Four crew members begin isolation.",
+    "urlToImage": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=600&q=80",
+    "url": "https://www.nasa.gov/mars-habitat-2024",
+    "category": "technology",
+    "country": "us"
+  },
+  {
+    "title": "India's First Underwater Metro Opens in Kolkata",
+    "description": "The 16-km Hooghly River crossing reduces travel time by 70%. PM Modi inaugurates Phase 1.",
+    "urlToImage": "https://images.unsplash.com/photo-1551632811-561732d1e306?auto=format&fit=crop&w=600&q=80",
+    "url": "https://www.indiatoday.in/india/story/kolkata-underwater-metro-2505678",
+    "category": "technology",
+    "country": "in"
+  },
+  {
+    "title": "AU Rugby League Bans Tackles Above Shoulder Height",
+    "description": "New player safety rules implemented after concussion studies. Effective from 2025 season.",
+    "urlToImage": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?auto=format&fit=crop&w=600&q=80",
+    "url": "https://www.nrl.com.au/news/2024/05/22/safety-rule-changes/",
+    "category": "sports",
+    "country": "au"
+  },
+  {
+    "title": "Germany's Fusion Reactor Achieves 30-Minute Sustained Burn",
+    "description": "Wendelstein 7-X stellarator marks breakthrough in clean energy research.",
+    "urlToImage": "https://images.unsplash.com/photo-1642670310920-6f4e3a3adee3?auto=format&fit=crop&w=600&q=80",
+    "url": "https://www.mpg.de/fusion-energy-record",
+    "category": "technology",
+    "country": "de"
+  },
+  {
+    "title": "UK Deploys AI Drones to Monitor Migrant Crossings",
+    "description": "New Channel surveillance system reduces unauthorized entries by 45%, says Home Office.",
+    "urlToImage": "https://images.unsplash.com/photo-1506941433945-99a2aa4eed50?auto=format&fit=crop&w=600&q=80",
+    "url": "https://www.bbc.co.uk/news/uk-69023456",
+    "category": "defense",
+    "country": "uk"
+  },
+  {
+    "title": "Hollywood's First AI-Generated Movie Sparks Debate",
+    "description": "‘Neon Dreams’ uses zero human actors. SAG-AFTRA calls for regulations.",
+    "urlToImage": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?auto=format&fit=crop&w=600&q=80",
+    "url": "https://deadline.com/2024/05/ai-movie-neon-dreams-1235934567/",
+    "category": "entertainment",
+    "country": "us"
+  },
+  {
+    "title": "India Unveils World's Largest Solar Farm in Rajasthan",
+    "description": "10 GW facility powers 8 million homes. Part of 2070 net-zero pledge.",
+    "urlToImage": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?auto=format&fit=crop&w=600&q=80",
+    "url": "https://www.livemint.com/energy/news/rajasthan-solar-farm-launch-134567890123/",
+    "category": "technology",
+    "country": "in"
+  },
+  {
+    "title": "AU Scientists Discover Coral Reef Regeneration 'Hotspots'",
+    "description": "Great Barrier Reef areas show 40% recovery after heat-resistant algae introduction.",
+    "urlToImage": "https://images.unsplash.com/photo-1586769852836-bc069f74e9e2?auto=format&fit=crop&w=600&q=80",
+    "url": "https://www.abc.net.au/news/science/2024-05-22/coral-regeneration-breakthrough/103867891",
+    "category": "health",
+    "country": "au"
+  },
+  {
+    "title": "Bundesliga Introduces Semi-Automated Offside Technology",
+    "description": "Hawkeye system reduces VAR delays. Tested in Bayern vs Leipzig match.",
+    "urlToImage": "https://images.unsplash.com/photo-1574629107-5a7b08d75789?auto=format&fit=crop&w=600&q=80",
+    "url": "https://www.bundesliga.com/en/news/var-technology-upgrade-987655",
+    "category": "sports",
+    "country": "de"
+  },
+  {
+    "title": "UK's First Vertical Takeoff Electric Plane Completes Test Flight",
+    "description": "Zero-emission aircraft aims for London-Paris routes by 2028.",
+    "urlToImage": "https://images.unsplash.com/photo-1559815455-14c0a23b6295?auto=format&fit=crop&w=600&q=80",
+    "url": "https://www.theguardian.com/technology/2024/may/22/uk-electric-plane-test",
+    "category": "technology",
+    "country": "uk"
+  },
+  {
+    "title": "Mumbai Hosts First Formula E Grand Prix",
+    "description": "Mahindra Racing secures pole position. Race draws 85,000 spectators.",
+    "urlToImage": "https://images.unsplash.com/photo-1559131397-f94da358a7b8?auto=format&fit=crop&w=600&q=80",
+    "url": "https://auto.hindustantimes.com/formula-e/mumbai-eprix-2024-1345678",
+    "category": "sports",
+    "country": "in"
+  },
+  {
+    "title": "Germany Legalizes Medical Psychedelics for Depression Treatment",
+    "description": "MDMA and psilocybin therapy available at 12 clinics from September 2024.",
+    "urlToImage": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&w=600&q=80",
+    "url": "https://www.dw.com/en/germany-psychedelics-law/a-69012346",
+    "category": "health",
+    "country": "de"
+  },
+  {
+    "title": "AU Navy Launches Stealth Drone Submarine Fleet",
+    "description": "Ghost Shark drones to patrol Indo-Pacific waters. $3.9bn defense contract signed.",
+    "urlToImage": "https://images.unsplash.com/photo-1560274634-8d6e228e1ad7?auto=format&fit=crop&w=600&q=80",
+    "url": "https://www.defense.gov.au/news/ghost-shark-drones",
+    "category": "defense",
+    "country": "au"
+  },
+  {
+    "title": "Broadway's 'Hamilton' Launches Hindi Adaptation in Mumbai",
+    "description": "30-week run begins at Nita Mukesh Ambani Cultural Centre. Tickets sell out in 3 hours.",
+    "urlToImage": "https://images.unsplash.com/photo-1543584756-8f40a8024ac7?auto=format&fit=crop&w=600&q=80",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi-theatre/hamilton-india-premiere/articleshow/11223344.cms",
+    "category": "entertainment",
+    "country": "in"
+  },
+  {
+    "title": "UK Develops Laser Weapon to Counter Russian Satellites",
+    "description": "DragonFire system successfully tested in Wales. Operational by 2027.",
+    "urlToImage": "https://images.unsplash.com/photo-1614724065191-0d5f7b6d27c4?auto=format&fit=crop&w=600&q=80",
+    "url": "https://www.telegraph.co.uk/news/2024/05/22/uk-laser-weapon-satellite-defense/",
+    "category": "defense",
+    "country": "uk"
+  },
+  {
+    "title": "Silicon Valley's AI Startup Reaches $10bn Valuation in 18 Months",
+    "description": "NeuroTech's brain-computer interface attracts Google and Elon Musk investments.",
+    "urlToImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "url": "https://techcrunch.com/2024/05/22/neurotech-valuation-unicorn/",
+    "category": "technology",
+    "country": "us"
+  },
+  {
+    "title": "Germany Wins Eurovision 2024 with AI-Composed Song",
+    "description": "‘Electric Heart’ blends human vocals with neural network melodies. Controversy erupts.",
+    "urlToImage": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&w=600&q=80",
+    "url": "https://www.eurovision.de/news/Germany-wins-2024-67890123",
+    "category": "entertainment",
+    "country": "de"
+  },
+  {
+    "title": "AU Astronomers Detect Radio Signals from 9 Billion Light-Years Away",
+    "description": "ASKAP telescope captures evidence of ancient galaxy formation.",
+    "urlToImage": "https://images.unsplash.com/photo-1464802686167-b939a6910659?auto=format&fit=crop&w=600&q=80",
+    "url": "https://www.abc.net.au/news/science/2024-05-22/radio-signals-space-discovery/103867892",
+    "category": "technology",
+    "country": "au"
+  },
+  {
+    "title": "India's National Chess Champion Defeats Magnus Carlsen",
+    "description": "18-year-old Ramesh Iyer wins World Blitz Championship in Oslo.",
+    "urlToImage": "https://images.unsplash.com/photo-1586165368502-1bad197a6461?auto=format&fit=crop&w=600&q=80",
+    "url": "https://www.chess.com/article/indian-prodigy-wins-world-championship-2024",
+    "category": "sports",
+    "country": "in"
+  },
+  {
+    "title": "London's Tate Modern Hosts Immersive Van Gogh Exhibition",
+    "description": "Projection-mapped show features 4,000 moving artworks. Runs until January 2025.",
+    "urlToImage": "https://images.unsplash.com/photo-1578302758063-0ef3e048ca89?auto=format&fit=crop&w=600&q=80",
+    "url": "https://www.tate.org.uk/whats-on/tate-modern/van-gogh-experience",
+    "category": "entertainment",
+    "country": "uk"
+  },
+  {
+    "title": "US Army Tests Exoskeleton Suits for Infantry",
+    "description": "TALOS Mark IV prototypes enhance strength and endurance. Field trials in Texas.",
+    "urlToImage": "https://images.unsplash.com/photo-1618335829737-2228915674e0?auto=format&fit=crop&w=600&q=80",
+    "url": "https://www.army.mil/exosuit-trials-2024",
+    "category": "defense",
+    "country": "us"
+  },
+  {
+    "title": "Delhi Launches Emergency Heatwave Action Plan",
+    "description": "Mobile cooling centers and 24/7 power guarantees as temperatures hit 49°C.",
+    "urlToImage": "https://images.unsplash.com/photo-1469122312224-c5846569feb1?auto=format&fit=crop&w=600&q=80",
+    "url": "https://www.hindustantimes.com/india-news/delhi-heatwave-plan-1345678",
+    "category": "health",
+    "country": "in"
+  },
+  {
+    "title": "AU Wine Exports to China Resume After Tariff Lift",
+    "description": "First shipment of Barossa Valley Shiraz reaches Shanghai. Trade deal valued at $1bn.",
+    "urlToImage": "https://images.unsplash.com/photo-1506377247377-2a5b3b417ebb?auto=format&fit=crop&w=600&q=80",
+    "url": "https://www.afr.com/trade/australia-china-wine-exports-20240522",
+    "category": "technology",
+    "country": "au"
+  },
+  {
+    "title": "Frankfurt Stock Exchange Launches AI Trading Floor",
+    "description": "Algorithmic systems handle 60% of transactions. Human traders protest job cuts.",
+    "urlToImage": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=600&q=80",
+    "url": "https://www.handelsblatt.com/finance/ai-trading-frankfurt/29012345",
+    "category": "technology",
+    "country": "de"
+  },
+  {
+    "title": "UK's Stonehenge Tunnel Project Approved After Decade-Long Debate",
+    "description": "4.5km underground route aims to reduce traffic near World Heritage Site.",
+    "urlToImage": "https://images.unsplash.com/photo-1500382017258-46b7506e575f?auto=format&fit=crop&w=600&q=80",
+    "url": "https://www.bbc.co.uk/news/uk-england-69023457",
+    "category": "technology",
+    "country": "uk"
+  },
+  {
+    "title": "California Mandates All-Electric School Buses by 2035",
+    "description": "$2.8bn funding package announced. First 1,000 buses deployed in LAUSD.",
+    "urlToImage": "https://images.unsplash.com/photo-1597703463718-fa173a9d0c3b?auto=format&fit=crop&w=600&q=80",
+    "url": "https://www.latimes.com/california/california-electric-school-buses-20240522",
+    "category": "technology",
+    "country": "us"
+  },
+  {
+    "title": "Hyderabad Becomes India's First 100% Solar-Powered Metro City",
+    "description": "300MW solar farm offsets entire public transport energy needs.",
+    "urlToImage": "https://images.unsplash.com/photo-1509391366360-2e959784a276?auto=format&fit=crop&w=600&q=80",
+    "url": "https://www.thehindu.com/news/cities/Hyderabad/solar-metro-city/article67890124/",
+    "category": "technology",
+    "country": "in"
+  },
+  {
+    "title": "AU Open Golf Tournament Adds Women's Legends Division",
+    "description": "Annika Sörenstam and Karrie Webb confirmed for 2025 Melbourne event.",
+    "urlToImage": "https://images.unsplash.com/photo-1575361204480-aadea25e6e68?auto=format&fit=crop&w=600&q=80",
+    "url": "https://www.golfaustralia.com.au/news/2024-womens-legends-division",
+    "category": "sports",
+    "country": "au"
+  },
+  {
+    "title": "Volkswagen Reveals Flying Car Prototype in Munich",
+    "description": "Electric vertical takeoff vehicle completes 15-minute test flight.",
+    "urlToImage": "https://images.unsplash.com/photo-1639754390580-2e7437267698?auto=format&fit=crop&w=600&q=80",
+    "url": "https://www.autobild.de/artikel/vw-flugauto-2024-9876543",
+    "category": "technology",
+    "country": "de"
+  },
+  {
+    "title": "Edinburgh Fringe Festival Adds AI Comedy Category",
+    "description": "Neural network-generated stand-up routines compete for ‘Circuit Breaker’ award.",
+    "urlToImage": "https://images.unsplash.com/photo-1506157786151-b8491531f063?auto=format&fit=crop&w=600&q=80",
+    "url": "https://www.edfringe.com/ai-comedy-2024",
+    "category": "entertainment",
+    "country": "uk"
+  },
+  {
+    "title": "Texas Approves Statewide Bitcoin Mining Incentives",
+    "description": "Tax breaks for companies using renewable energy. Expected to create 5,000 jobs.",
+    "urlToImage": "https://images.unsplash.com/photo-1621413278131-7aae34b3c1d0?auto=format&fit=crop&w=600&q=80",
+    "url": "https://www.texastribune.org/bitcoin-mining-law-2024",
+    "category": "technology",
+    "country": "us"
+  },
+  {
+    "title": "India's National Museum Returns Stolen Artifacts to Cambodia",
+    "description": "12th-century statues looted during Khmer Rouge era repatriated.",
+    "urlToImage": "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?auto=format&fit=crop&w=600&q=80",
+    "url": "https://www.thehindu.com/news/national/india-cambodia-artifact-return/article67890125/",
+    "category": "entertainment",
+    "country": "in"
+  },
+  {
+    "title": "AU Scientists Grow Climate-Resistant Wheat in Lab",
+    "description": "New strain yields 20% more in drought conditions. Field trials begin in 2025.",
+    "urlToImage": "https://images.unsplash.com/photo-1554692918-08fa0fdc9db3?auto=format&fit=crop&w=600&q=80",
+    "url": "https://www.csiro.au/climate-wheat-breakthrough",
+    "category": "technology",
+    "country": "au"
+  },
+  {
+    "title": "German Court Bans TikTok Data Transfers to China",
+    "description": "Ruling cites national security concerns. ByteDance appeals decision.",
+    "urlToImage": "https://images.unsplash.com/photo-1611162618071-b94a3374c195?auto=format&fit=crop&w=600&q=80",
+    "url": "https://www.reuters.com/technology/germany-tiktok-ban-2024-05-22/",
+    "category": "technology",
+    "country": "de"
+  },
+  {
+    "title": "UK's First 3D-Printed Neighborhood Breaks Ground in Bristol",
+    "description": "150 eco-homes to be completed by 2026. Prices 30% below market average.",
+    "urlToImage": "https://images.unsplash.com/photo-1623874514711-0f619325a537?auto=format&fit=crop&w=600&q=80",
+    "url": "https://www.architectsjournal.co.uk/news/3d-printed-housing-bristol",
+    "category": "technology",
+    "country": "uk"
+  },
+  {
+    "title": "SpaceX Launches First All-Civilian Crew to ISS",
+    "description": "Four passengers pay $55 million each for 10-day orbital mission.",
+    "urlToImage": "https://images.unsplash.com/photo-1457365050282-c53f71ff5cf3?auto=format&fit=crop&w=600&q=80",
+    "url": "https://www.spacex.com/news/2024/iss-civilian-mission",
+    "category": "technology",
+    "country": "us"
+  },
+  {
+    "title": "Chennai Hosts World Yoga Championship",
+    "description": "2,500 participants from 60 countries. India wins 15 gold medals.",
+    "urlToImage": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&w=600&q=80",
+    "url": "https://timesofindia.indiatimes.com/sports/yoga-championship-2024/articleshow/11223345.cms",
+    "category": "sports",
+    "country": "in"
+  },
+  {
+    "title": "AU & NZ Announce Joint Antarctic Research Station",
+    "description": "Zero-emission facility to study climate change. Operational by 2028.",
+    "urlToImage": "https://images.unsplash.com/photo-1580309253353-3690b5d64559?auto=format&fit=crop&w=600&q=80",
+    "url": "https://www.antarctica.gov.au/news/2024/joint-research-station/",
+    "category": "technology",
+    "country": "au"
+  },
+  {
+    "title": "Hamburg Port Fully Automates Cargo Handling",
+    "description": "AI cranes and driverless trucks cut processing time by 40%.",
+    "urlToImage": "https://images.unsplash.com/photo-1601055927765-e6a0e8e3ace4?auto=format&fit=crop&w=600&q=80",
+    "url": "https://www.hafen-hamburg.de/en/automation-project",
+    "category": "technology",
+    "country": "de"
+  },
+  {
+    "title": "Wimbledon Introduces AI Line Judges for 2024 Championship",
+    "description": "Hawk-Eye system replaces all human officials. Players approve decision.",
+    "urlToImage": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?auto=format&fit=crop&w=600&q=80",
+    "url": "https://www.wimbledon.com/ai-line-judges-2024",
+    "category": "sports",
+    "country": "uk"
+  }
+]

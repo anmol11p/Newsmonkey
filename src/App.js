@@ -1,22 +1,17 @@
-import './App.css';
+import "./App.css";
+import React from "react";
+import Navbar from "./components/Navbar";
+import News from "./components/News";
 
-
-import React, { Component } from 'react'
-import Navbar from './components/Navbar';
-// import NewsItem from './components/NewsItem';
-import { News } from './components/News';
-export default class App extends Component {
-  render() {
-    return (
-      <>
-      <Navbar/>
+const App = () => {
+  return (
+    <>
+      <Navbar />
       <div className="container my-3">
-      <News />
+        <News />
       </div>
-    
-      </>
-      
-    
-    )
-  }
-}
+    </>
+  );
+};
+
+export default App;
